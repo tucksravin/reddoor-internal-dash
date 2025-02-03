@@ -5,6 +5,9 @@
 	"/api/preview": [
 		"src/routes/api/preview/+server.js"
 	],
+	"/api/upload": [
+		"src/routes/api/upload/+server.ts"
+	],
 	"/blogs": [
 		"src/routes/+layout.server.js"
 	],
@@ -48,6 +51,9 @@
 		"src/routes/+layout.server.js"
 	],
 	"/testimonials": [
+		"src/routes/+layout.server.js"
+	],
+	"/upload": [
 		"src/routes/+layout.server.js"
 	],
 	"/values": [
